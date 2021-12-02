@@ -9,7 +9,7 @@
 
 Урок 11
 
-Демо + исходники проекта: https://github.com/skypro-008/lesson11
+Демо + исходники проекта: https://github.com/skypro-008/lesson11_v2
 
 Урок 12
 
