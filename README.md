@@ -17,7 +17,16 @@
 
 Урок 13
 
-Демо + исходники проекта: https://github.com/skypro-008/lesson13
+Демо: https://github.com/skypro-008/lesson13_v2
+
+Тренажер: https://github.com/skypro-008/lesson13-and-tests
+
+Исходник проекта: https://github.com/skypro-008/lesson13_project_source
+
+Решение: https://github.com/kushedow/lesson13_solution
+
+Старая версия: https://github.com/skypro-008/lesson13
+
 
 ## Курс 3
 
