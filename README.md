@@ -29,9 +29,9 @@
 
 Тренажер: https://github.com/skypro-008/lesson12-and-tests
 
-Исходник проекта:
+Исходник проекта: https://github.com/skypro-008/lesson12_project_source
 
-Решение:
+Решение: (потерялось)
 
 ### Урок 13
 
