@@ -5,29 +5,29 @@
 
 ### Урок 10
 
-Демо + исходники проекта: https://github.com/skypro-008/lesson10
+Демо: https://github.com/skypro-008/lesson10
 
-Тренажер:
+Тренажер: https://github.com/skypro-008/lesson10-with-tests
 
-Исходник проекта:
+Исходник проекта: (в основном репозитории)
 
-Решение:
+Решение: (в основном репозитории)
 
 ### Урок 11
 
-Демо + исходники проекта: https://github.com/skypro-008/lesson11_v2
+Демо: https://github.com/skypro-008/lesson11_v2
 
-Тренажер:
+Тренажер: (нет тренажера) 
 
 Исходник проекта:
 
-Решение:
+Решение: (в основном репозитории)
 
 ### Урок 12
 
 Демо + исходники проекта: https://github.com/skypro-008/lesson12
 
-Тренажер: 
+Тренажер: https://github.com/skypro-008/lesson12-and-tests
 
 Исходник проекта:
 
